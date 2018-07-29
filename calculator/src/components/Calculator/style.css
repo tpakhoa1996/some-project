@@ -1,0 +1,31 @@
+#calculator {
+    background-color: #a7c0cd;
+    padding: 20px;
+}
+
+#key-pad {
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    grid-gap: 10px;
+    align-items: center;
+    justify-items: center;
+}
+
+#display {
+    display: grid;
+    grid-row-gap: 5px;
+    align-items: center;
+    grid-template-columns: 25% auto;
+}
+
+#operator-label {
+    visibility: hidden;
+}
+
+#operator-symbol {
+    font-weight: bold;
+    font-family: system-ui;
+}
+
+
