@@ -1,1 +1,2 @@
-# some-project
+- Task 1 in "calculator" folder
+- Task 2 in "sql" folder
